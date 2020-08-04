@@ -1,6 +1,6 @@
 # bootstrap_sampling
 
-Two examples how to literally code bootstrap in MATLAB using two examples from book of [1](https://www.amazon.com/Data-Analysis-Resampling-Concepts-Applications/dp/0534221106). Example 1 (`bootstrap_example1.m`) shows calculation of 100-boostrap estimate of a Pearson's correlation coefficient between two variables. It provides visualization for selected cases and sampling distribution.
+Two examples how to literally code bootstrap in MATLAB using two examples from book of [\[1\]](https://www.amazon.com/Data-Analysis-Resampling-Concepts-Applications/dp/0534221106). Example 1 (`bootstrap_example1.m`) shows calculation of 100-boostrap estimate of a Pearson's correlation coefficient between two variables. It provides visualization for selected cases and sampling distribution.
 
 
 
