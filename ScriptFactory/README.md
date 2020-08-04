@@ -8,8 +8,8 @@ This is a program that can create different versions (a.k.a. *releases*) of data
 1. Edit `gen_scripts/S1_MAIN.m` as well as other `.m` files in that directory (you can also add there as many `.m` files as you wish). Use input data from the `data` directory. 
 1. Test and modify your program there until you are satified.
 1. Edit `RELEASE.sh` file at following lines:
-   1. 13: Edit `release_name` variable. This will be the name of your output version of your release.
-   1. From 70 till `EOF` word: Put any relevant info about your release there.
+   1. Line 13: Edit `release_name` variable. This will be the name of your output version of your release.
+   1. Lines from 70 till `EOF` word: Put any relevant info about your release there.
 1. Run `RELEASE.sh` script to create a new release of the workflow.
 
 
