@@ -7,8 +7,7 @@ Function that creates GMM model and random sample form that model and finally fi
 To test GMM fitting on N=100 points type in MATLAB Command Window:
 
 ```
-GM_toy(100) 
-
+>> GM_toy(100) 
 ```
 
 The bigger N the better chance to obtain good fit.
