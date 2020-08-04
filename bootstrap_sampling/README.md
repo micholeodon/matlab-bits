@@ -8,4 +8,4 @@ Two examples how to literally code bootstrap in MATLAB using two examples from b
 
 ## Bibliography
 
-[ 1 ]: C. E. Lunneborg, Data Analysis by Resampling: Concepts and Applications, 1 edition. Australia ; Pacific Grove, CA: Duxbury Press, 1999.
+[1]: C. E. Lunneborg, Data Analysis by Resampling: Concepts and Applications, 1 edition. Australia ; Pacific Grove, CA: Duxbury Press, 1999.
