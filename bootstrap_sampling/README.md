@@ -4,7 +4,7 @@ Two examples how to literally code bootstrap in MATLAB using two examples from b
 
 Example 1 (`bootstrap_example1.m`) shows calculation of a 100-boostrap estimate of a Pearson's correlation coefficient between two variables. It provides visualization for selected cases and sampling distribution.
 
-Example 2 (`bootstrap_example2.m`) shows that bootstrap is not always accurate method for estimating population parameter and some discrepations may arise when one uses real-world sample. It provides visualization for selected cases and sampling distribution.
+Example 2 (`bootstrap_example2.m`) shows that bootstrap is not always accurate method for estimating population parameter and some discrepancies may arise when one uses real-world sample. It provides visualization for selected cases and sampling distribution.
 
 
 ## What I have learnt?
