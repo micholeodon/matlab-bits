@@ -1,6 +1,6 @@
 clear; close all; clc;
 
-% NOTE: provide path to your fieldtrip plugin directory !
+% NOTE: provide path to your fieldtrip toolbox directory !
 addpath '/home/michak/matlab_conf_plug_lic/fieldtrip-20180526/';
 
 %%
