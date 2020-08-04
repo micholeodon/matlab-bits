@@ -4,5 +4,5 @@ Script that show visual differences between covariance matrices of multi-channel
 
 ## What I have learnt?
 
-  * using Fieldtrip plugin for band-pass filtering of the multi-channel data 
+  * using [Fieldtrip toolbox](http://www.fieldtriptoolbox.org/) for band-pass filtering of the multi-channel data 
   * using cell arrays to store structures
