@@ -1,5 +1,5 @@
 # PairingPoints
-Scripts that shows three problems related to finding closest neighbour point. 
+Scripts that show three problems related to finding closest neighbour point. 
 
 
   * Test 1: finds one closest point to test point p. 
