@@ -1,0 +1,27 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 12 workers.
+Lab 1: 
+  LAB 1 seed after shuffle: 123
+Lab 2: 
+  LAB 2 seed after shuffle: 123
+Lab 3: 
+  LAB 3 seed after shuffle: 123
+Parallel pool using the 'local' profile is shutting down.
+
+testSubRep =
+
+    11    12    15    30    31    45    47    64
+     1    17    35    46    64    68    85    89
+    14    19    47    49    53    57    65    80
+
+DONE
