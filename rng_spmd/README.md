@@ -29,7 +29,7 @@ Following items are provided for each of them: code, output file with workspace 
 
 
 ### Experiment 1 ###
-	Running two times same script in one MATLAB sessions, `spmd` block. Default rng behavior.
+Running two times same script in one MATLAB sessions, `spmd` block. Default rng behavior.
 
 **Observation**:
 - each worker generate its own series of random numbers
