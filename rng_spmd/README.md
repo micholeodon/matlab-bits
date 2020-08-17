@@ -158,4 +158,4 @@ Same as Experiment 11. but added its own job identification number to each job s
 - different streams of random numbers across different runs of twin jobs
  
 **Conclusion**:
-- there is no problem with that approach as long as time distance between each run of multiple jobs is big, so their seeds
+- there is no problem with that approach as long as time distance between each run of multiple jobs is big, so their seeds not overlap
