@@ -1,6 +1,7 @@
 # SumEqualsProduct 
 
 What numbers x, y have the property that their sum equals their product?
+
 I.e.:
 
 ```
@@ -11,7 +12,7 @@ x * y = c
 This script solves this problem and plots solution.
 
 
-<img src="./plot.png" height=300>
+<img src="./plot.png" height=600>
 
 <img src="./xyc.png" height=300>
 
