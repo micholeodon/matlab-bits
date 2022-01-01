@@ -3,7 +3,7 @@
 When one wants to guarantee certain properties of random numbers in MATLAB when working inside `spmd`/`parfor` block
 default configuration is not always sufficient.
 
-Despite recent work on setting (pseudo)random numbers generators (rng) properly it turned out that:
+First of all:
 * there are two different rngs: 
   1. "Parallel rng" - one used inside `spmd` / `parfor` blocks 
   1. "Serial rng" - other used outside `spmd` / `parfor` blocks 
